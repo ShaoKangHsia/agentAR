@@ -2,7 +2,7 @@
 
 This is the official repository for our UIST 2025 paper:
 > **agentAR: Creating Augmented Reality Applications with Tool-Augmented LLM-based Autonomous Agents**
-[:page_facing_up: **Paper Link**](https://dl.acm.org/doi/10.1145/3746059.3747676)
+> [:page_facing_up: **Paper Link**](https://dl.acm.org/doi/10.1145/3746059.3747676)
 
 Code and supplementary materials will be released soon.
 
